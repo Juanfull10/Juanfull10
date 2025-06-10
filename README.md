@@ -49,7 +49,6 @@
 
 ### 📫 Contáctame
 
-- 📧 juan.peraza@email.com
 - 💼 [LinkedIn](www.linkedin.com/in/juan-esteban-peraza-diaz-652261166)
 
 ---
