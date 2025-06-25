@@ -49,7 +49,8 @@
 
 ### 📫 Contáctame
 
-- 💼 [LinkedIn](www.linkedin.com/in/juan-esteban-peraza-diaz-652261166)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-esteban-peraza-diaz-652261166/)
 
 ---
 
