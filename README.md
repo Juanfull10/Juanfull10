@@ -41,6 +41,7 @@
 
 ###📂 Proyectos destacados
 Proyecto	Descripción	Tecnologías
+
 📡 App-tipo-NOC-backend	Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC.	Node.js · TypeScript
 🔢 node-ts-multiplication	Genera tablas de multiplicar automáticamente en archivos .txt.	Node.js · TypeScript
 ⚛️ reactt	Aplicación React con funcionalidades dinámicas para practicar hooks, rutas y estados.	React · JavaScript
