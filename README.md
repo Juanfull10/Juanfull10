@@ -43,11 +43,17 @@
 Proyecto	Descripción	Tecnologías
 
 📡 App-tipo-NOC-backend	Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC.	Node.js · TypeScript
+
 🔢 node-ts-multiplication	Genera tablas de multiplicar automáticamente en archivos .txt.	Node.js · TypeScript
+
 ⚛️ reactt	Aplicación React con funcionalidades dinámicas para practicar hooks, rutas y estados.	React · JavaScript
+
 🌐 Proyect-react1	Proyecto en React que consolida conocimientos en componentes, props y estado.	React · JavaScript
+
 🔧 CRUD en PHP con MySQL	Aplicación web CRUD siguiendo el patrón MVC para gestión de registros.	PHP · MySQL
+
 📱 Gestión de clientes (MVC)	App para gestionar clientes con patrón MVC y almacenamiento en BD.	PHP · MySQL
+
 ---
 
 ### 📫 Contáctame
