@@ -44,15 +44,15 @@ Proyecto	Descripción	Tecnologías
 
 📡[ App-tipo-NOC-backend	Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC.	Node.js · TypeScript](https://github.com/Juanfull10/App-tipo-NOC-backend)
 
-🔢 node-ts-multiplication	Genera tablas de multiplicar automáticamente en archivos .txt.	Node.js · TypeScript
+🔢 [node-ts-multiplication	Genera tablas de multiplicar automáticamente en archivos .txt.	Node.js · TypeScript](https://github.com/Juanfull10/node-ts-multiplication)
 
-⚛️ reactt	Aplicación React con funcionalidades dinámicas para practicar hooks, rutas y estados.	React · JavaScript
+⚛️ [reactt	Aplicación React con funcionalidades dinámicas para practicar hooks, rutas y estados.	React · JavaScript](https://github.com/Juanfull10/reactt)
 
-🌐 Proyect-react1	Proyecto en React que consolida conocimientos en componentes, props y estado.	React · JavaScript
+🌐 [Proyect-react1	Proyecto en React que consolida conocimientos en componentes, props y estado.	React · JavaScript](https://github.com/Juanfull10/Proyect-react1)
 
-🔧 CRUD en PHP con MySQL	Aplicación web CRUD siguiendo el patrón MVC para gestión de registros.	PHP · MySQL
+🔧 [CRUD en PHP con MySQL	Aplicación web CRUD siguiendo el patrón MVC para gestión de registros.	PHP · MySQL]()
 
-📱 Gestión de clientes (MVC)	App para gestionar clientes con patrón MVC y almacenamiento en BD.	PHP · MySQL
+📱 [Gestión de clientes (MVC)	App para gestionar clientes con patrón MVC y almacenamiento en BD.	PHP · MySQL](https://github.com/Juanfull10/PaginaCitas)
 
 ---
 
