@@ -41,7 +41,7 @@
 
 ###📂 Proyectos destacados
 Proyecto	Descripción	Tecnologías
-📡[ Restfull api	Backend en Node.js y TypeScript con Clean Architecture Dtos, repository, use cases.	Node.js · TypeScript]([https://github.com/Juanfull10/App-tipo-NOC-backend](https://github.com/Juanfull10/App-tipo-NOC-backend))
+📡[ Restfull api	Backend en Node.js y TypeScript con Clean Architecture Dtos, repository, use cases.	Node.js · TypeScript](https://github.com/Juanfull10/App-tipo-NOC-backend](https://github.com/Juanfull10/App-tipo-NOC-backend))
 
 📡[ App-tipo-NOC-backend	Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC.	Node.js · TypeScript](https://github.com/Juanfull10/App-tipo-NOC-backend)
 
