@@ -39,26 +39,18 @@
 
 ---
 
-###📂 Proyectos destacados
-Proyecto	Descripción	Tecnologías
+### 📂 Proyectos destacados
 
-🔐 [authenticacion_nodejs](https://github.com/Juanfull10/authenticacion_nodejs) | API REST con registro, login, JWT y validación de email por correo. | Node.js · TypeScript · MongoDB 
-
-📡[ Restfull api	Backend en Node.js y TypeScript con Clean Architecture Dtos, repository, use cases.	Node.js · TypeScript](https://github.com/Juanfull10/node_Restserver))
-
-📡[ App-tipo-NOC-backend	Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC.	Node.js · TypeScript](https://github.com/Juanfull10/App-tipo-NOC-backend)
-
-🔢 [node-ts-multiplication	Genera tablas de multiplicar automáticamente en archivos .txt.	Node.js · TypeScript](https://github.com/Juanfull10/node-ts-multiplication)
-
-⚛️ [reactt	Aplicación React con funcionalidades dinámicas para practicar hooks, rutas y estados.	React · JavaScript](https://github.com/Juanfull10/reactt)
-
-🌐 [Proyect-react1	Proyecto en React que consolida conocimientos en componentes, props y estado.	React · JavaScript](https://github.com/Juanfull10/Proyect-react1)
-
-🔧 [CRUD en PHP con MySQL	Aplicación web CRUD siguiendo el patrón MVC para gestión de registros.	PHP · MySQL]()
-
-📱 [Gestión de clientes (MVC)	App para gestionar clientes con patrón MVC y almacenamiento en BD.	PHP · MySQL](https://github.com/Juanfull10/PaginaCitas)
-
----
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🔐 [authenticacion_nodejs](https://github.com/Juanfull10/authenticacion_nodejs) | API REST con registro, login, JWT y validación de email por correo. | Node.js · TypeScript · MongoDB |
+| 📡 [Restfull api](https://github.com/Juanfull10/node_Restserver) | Backend en Node.js y TypeScript con Clean Architecture, DTOs, repository y use cases. | Node.js · TypeScript |
+| 📡 [App-tipo-NOC-backend](https://github.com/Juanfull10/App-tipo-NOC-backend) | Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC. | Node.js · TypeScript |
+| 🔢 [node-ts-multiplication](https://github.com/Juanfull10/node-ts-multiplication) | Genera tablas de multiplicar automáticamente en archivos .txt. | Node.js · TypeScript |
+| ⚛️ [reactt](https://github.com/Juanfull10/reactt) | Aplicación React con funcionalidades dinámicas para practicar hooks, rutas y estados. | React · JavaScript |
+| 🌐 [Proyect-react1](https://github.com/Juanfull10/Proyect-react1) | Proyecto en React que consolida conocimientos en componentes, props y estado. | React · JavaScript |
+| 🔧 CRUD en PHP con MySQL | Aplicación web CRUD siguiendo el patrón MVC para gestión de registros. | PHP · MySQL |
+| 📱 [Gestión de clientes (MVC)](https://github.com/Juanfull10/PaginaCitas) | App para gestionar clientes con patrón MVC y almacenamiento en BD. | PHP · MySQL |
 
 ### 📫 Contáctame
 
