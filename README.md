@@ -42,6 +42,8 @@
 ###📂 Proyectos destacados
 Proyecto	Descripción	Tecnologías
 
+🔐 [authenticacion_nodejs](https://github.com/Juanfull10/authenticacion_nodejs) | API REST con registro, login, JWT y validación de email por correo. | Node.js · TypeScript · MongoDB 
+
 📡[ Restfull api	Backend en Node.js y TypeScript con Clean Architecture Dtos, repository, use cases.	Node.js · TypeScript](https://github.com/Juanfull10/node_Restserver))
 
 📡[ App-tipo-NOC-backend	Backend en Node.js y TypeScript con Clean Architecture para monitoreo automático tipo NOC.	Node.js · TypeScript](https://github.com/Juanfull10/App-tipo-NOC-backend)
